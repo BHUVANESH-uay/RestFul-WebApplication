@@ -1,4 +1,4 @@
-# RestFull-OnlineFlowerStore
+# RestFul-WebApplication
 # Online Flower Store
 
 Welcome to the Online Flower Store project! This is a RESTful web application designed for an online flower shop, featuring a dynamic product catalog, user authentication, and a seamless checkout experience.

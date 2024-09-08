@@ -21,55 +21,13 @@ Welcome to the Online Flower Store project! This is a RESTful web application de
 - **APIs**: Google, Facebook
 - **Deployment**: Glitch
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-
-3. **Set Up Environment Variables:**
-
-    Create a `.env` file in the root directory of the project and add the following environment variables:
-    ```
-    MONGODB_URI=your-mongodb-uri
-    GOOGLE_CLIENT_ID=your-google-client-id
-    FACEBOOK_APP_ID=your-facebook-app-id
-    EMAIL_USER=your-email-address
-    EMAIL_PASS=your-email-password
-    ```
-
-4. **Run the Application:**
-    ```bash
-    npm start
-    ```
-
-5. **Visit the Application:**
-    Open your browser and go to `http://localhost:3000` to see the application in action.
-
 ## Deployment
 
 The application is deployed on Glitch. You can access it at the following URL:
 
 [https://floralblossoms.glitch.me/](https://floralblossoms.glitch.me/)
 
-## Contributing
 
-Feel free to submit issues or pull requests. Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
 ## License
 NA
@@ -82,7 +40,7 @@ NA
 
 ## Contact
 
-For any questions or feedback, please contact:
+For top-notch code and best practices, get in touch:
 
 - **Email**: Potabattulabhuvaneshbunny@gmail.com
 - **GitHub**: [Bhuvanesh](https://github.com/BHUVANESH-uay)
